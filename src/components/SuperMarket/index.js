@@ -1,7 +1,7 @@
 import React from 'react';
 import SuperMarkeTemplate from './SuperMarketTemplate';
-import ShopItemList from './ShopItemList';
-import BaseketItemList from './BasketItemList';
+import ShopItemList from '../shop/List';
+import BaseketItemList from '../basket/List';
 import TotalPrice from './TotalPrice';
 
 const SuperMarket = () => {

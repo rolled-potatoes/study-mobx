@@ -1,5 +1,5 @@
 import React from 'react';
-import BasketItem from './BasketItem'
+import BasketItem from '../Item'
 import { inject, observer } from 'mobx-react';
 
 

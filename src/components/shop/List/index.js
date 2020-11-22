@@ -1,5 +1,5 @@
 import React from 'react';
-import ShopItem from './ShopItem'
+import ShopItem from '../Item'
 import { inject, observer } from 'mobx-react';
 
 const items = [
