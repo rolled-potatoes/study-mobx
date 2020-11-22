@@ -1,0 +1,20 @@
+.ShopItem {
+  background : white; 
+  border : 1px solid #495057;
+  padding : 0.5rem;
+  border-radius : 2x; 
+  cursor :pointer; 
+}
+
+.ShopItem h4 {
+  margin : 0 1rem auto auto ; 
+}
+
+.ShopItem:hover {
+  background : #495057;
+  color :white;
+}
+
+.ShopIem + .ShopItem {
+  margin-top : 1rem;
+}
